@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Matryoshka
+comment1.params=s
+comment1.target=java.lang.String[][]\ ordenar(java.lang.String[])
+comment2.params=lista\ juegos
+comment2.target=void\ formarJuegosIterativamente(estDatLin.ListaDE,\ estDatLin.ListaDE)
+comment3.params=lista\ juego
+comment3.target=void\ formarJuego(estDatLin.ListaDE,\ estDatLin.ListaDE)
+comment4.params=lista
+comment4.target=void\ ordenarLexicograficamente(estDatLin.ListaDE)
+comment5.params=lista
+comment5.target=java.lang.String[]\ convertirListaAArray(estDatLin.ListaDE)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
